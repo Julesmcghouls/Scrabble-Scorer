@@ -1,4 +1,5 @@
-# Scrabble Scorer
+# Scrabble Scorer Refactor 
+### Previous project was on replit
 
 ## Assignment Requirements
 
